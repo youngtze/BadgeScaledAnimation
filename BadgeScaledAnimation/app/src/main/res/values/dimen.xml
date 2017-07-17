@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_icon_container">150dp</dimen>
+    <dimen name="app_icon_size">96dp</dimen>
+    <dimen name="badge_radius">16dp</dimen>
+</resources>
