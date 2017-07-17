@@ -1,0 +1,2 @@
+# BadgeScaledAnimation
+使用Canvas对应用图标的角标做缩放动画
